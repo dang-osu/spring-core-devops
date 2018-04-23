@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.validation.Valid;
 
 /**
- * Created on 2/1/16.
+ * Created 2/1/16.
  */
 
 @Controller
